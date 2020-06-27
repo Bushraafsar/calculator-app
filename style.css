@@ -2,7 +2,7 @@ body{
     background-color: rgb(207, 200, 200);
 }
 .main{
-    width:300px;
+    width:280px;
     height:500px;
     padding:0;
     margin:0 auto;
@@ -26,9 +26,9 @@ h2{
 .btn1{
     width:20%;
     height:40px;
-    margin:4px;
+    margin:3px;
     margin-left: 6px;
-    margin-right: 6px;
+    margin-right: 3px;
     color:whitesmoke;
     font-size: medium;
     background-color: rgb(70, 47, 47);
@@ -38,9 +38,9 @@ h2{
 .btn2{
     width:45%;
     height:40px;
-    margin:4px;
+    margin:3px;
     margin-left: 6px;
-    margin-right: 6px;
+    margin-right: 3px;
     color:black;
     font-size: medium;
     background-color: whitesmoke;
@@ -51,9 +51,9 @@ h2{
 .btn{
     width:20%;
     height:40px;
-    margin:4px;
+    margin:3px;
     margin-left: 6px;
-    margin-right: 6px;
+    margin-right: 3px;
     color:black;
     font-size: medium;
     border:none ;
